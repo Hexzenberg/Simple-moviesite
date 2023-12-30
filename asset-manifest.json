@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/Simple-moviesite/static/css/main.3292250f.css",
+    "main.js": "/Simple-moviesite/static/js/main.93727538.js",
+    "index.html": "/Simple-moviesite/index.html",
+    "static/media/search.svg": "/Simple-moviesite/static/media/search.981b582ea232c3cb047eca919deaf9e8.svg",
+    "main.3292250f.css.map": "/Simple-moviesite/static/css/main.3292250f.css.map",
+    "main.93727538.js.map": "/Simple-moviesite/static/js/main.93727538.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3292250f.css",
+    "static/js/main.93727538.js"
+  ]
+}
